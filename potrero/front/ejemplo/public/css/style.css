@@ -1,0 +1,52 @@
+/*Estilos*/
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+  }
+
+/*main*/
+h1 {
+    font-size: larger;
+    color: goldenrod;
+}
+.subtitle {
+    font-size: larger;
+    color: blueviolet;
+    font-weight: 100;
+}
+.subsub {
+    font-size: larger;
+    color: brown;
+}
+#p1{
+    font-size: large;
+    color: green;
+}
+/*
+.anya {
+    border: 3rem;
+    border-color: black;
+    border-style: solid;
+    padding: 10rem;
+    margin: 5em;
+    background-color: azure;
+}
+*/
+.box {
+    border: 5px solid rebeccapurple;
+    background-color: lightgray;
+    padding: 40px;
+    margin: 40px;
+    width: 300px;
+    height: 150px;
+  }
+  
+  .alternate {
+    box-sizing: border-box;
+    /*
+    width: 390px;
+    height: 240px;
+    */
+  }
+    
